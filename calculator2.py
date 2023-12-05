@@ -7,7 +7,7 @@ choice=input("enter your choice: ")
 a=float(input("enter a num: "))
 b=float(input("enter a num: "))
 if choice=="1":
-    print(a+b)
+    print("the answer is:",a+b)
 elif choice=="2":
     print(a-b)
 elif choice=="3":
